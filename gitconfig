@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = liviaellen@msn.com
+	name = Livia Ellen
